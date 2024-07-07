@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Counter-Strike 1.6 Servers</title>
+</head>
+<body>
+    <h1>Counter-Strike 1.6 Servers</h1>
+    <ul>
+        <li><a href="steam://connect/87.98.129.13:27015">AWP server</a></li>
+        <li><a href="steam://connect/87.98.129.13:27017">ZP server</a></li>
+        <li><a href="steam://connect/87.98.129.13:27025">Dust 2 server</a></li>
+        <li><a href="steam://connect/87.98.129.13:27016">Gungame server</a></li>
+        <li><a href="steam://connect/87.98.129.13:27019">Surf ski server</a></li>
+        <li><a href="steam://connect/87.98.129.13:27018">Deathmatch server</a></li>
+        <li><a href="steam://connect/87.98.129.13:27020">Automix server</a></li>
+    </ul>
+</body>
+</html>
